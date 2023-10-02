@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\bin\Debug\2sayiyitoplama.exe.config
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\bin\Debug\2sayiyitoplama.exe
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\bin\Debug\2sayiyitoplama.pdb
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\2sayiyitoplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\2sayiyitoplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\_2sayiyitoplama.fom1.resources
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\_2sayiyitoplama.Properties.Resources.resources
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\2sayiyitoplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\2sayiyitoplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\2sayiyitoplama.exe
+C:\Users\User\source\repos\2sayiyitoplama\2sayiyitoplama\obj\Debug\2sayiyitoplama.pdb
